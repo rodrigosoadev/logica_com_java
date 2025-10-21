@@ -1,10 +1,16 @@
 package Condicional;
 
+import java.util.Scanner;
+
 //
 public class TorneioDeNatacao {
     public static void main(String[] args) {
-        String nome = "Rodrigo";
-        byte idade = 20;
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Olá, digite o seu nome: ");
+        String nome = teclado.next();
+        System.out.println("Olá "+ nome +", agora digite sua idade:");
+        byte idade = teclado.nextByte();
+        
 
         if (idade < 11) {
             System.out.println("O participante " + nome + "participará da categoria infantil");
