@@ -1,4 +1,4 @@
-package Condicional;
+package Condicional.ifelse;
 
 import java.util.Scanner;
 

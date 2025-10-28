@@ -1,3 +1,4 @@
+package Primitivo;
 public class CalculadorDiferencaIdade {
     public static void main(String[] arg) {
         int idadeRodrigo = 24;

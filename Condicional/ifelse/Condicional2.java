@@ -1,4 +1,4 @@
-package Condicional;
+package Condicional.ifelse;
 
 public class Condicional2 {
     public static void main(String[] args) {

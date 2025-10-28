@@ -1,4 +1,4 @@
-package Condicional;
+package Condicional.ifelse;
 
 public class ImpaPar {
     public static void main(String[] args) {

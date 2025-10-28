@@ -1,3 +1,4 @@
+package Primitivo;
 public class CalcularPorcent {
     public static void main(String[] args) {
         float salario = 2500.000f;
