@@ -1,4 +1,4 @@
-package lacos;
+package lacos.whiles;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package lacos;
+package lacos.whiles;
 
 public class Introducao {
     public static void main(String[] args) {
