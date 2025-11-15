@@ -13,8 +13,8 @@ public class arrayExercicio {
 
         arrayMult[2][0] = 2;
         arrayMult[2][1] = 5;
-        arrayMult[2][2] = 21;
-
+        arrayMult[2][2] = 20;
+        
         int resultadoMultDiagonalPrincipal = 1;
         for (int i = 0; i < arrayMult.length; i++) {
             for (int j = 0; j < arrayMult[i].length; j++) {
@@ -23,7 +23,7 @@ public class arrayExercicio {
                 }
             }
         }
+    
         System.out.println(resultadoMultDiagonalPrincipal);
-
     }
 }
